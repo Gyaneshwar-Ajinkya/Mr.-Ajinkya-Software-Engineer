@@ -1,0 +1,1 @@
+console.log("Ajinkya Your  brain is just Amazing")
